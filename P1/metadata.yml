@@ -1,0 +1,12 @@
+---
+:id: 22166022
+:submitters:
+- :name: Gaotong Wu
+  :email: g9wu@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-10-12 21:07:36.892682000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-10-12 14:07:36.892682000 Z
+:status: processed
+:score: 11.2
